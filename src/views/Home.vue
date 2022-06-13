@@ -12,6 +12,7 @@ import { computed } from 'vue'
 import { mapGetters, useStore } from 'vuex'
 // commit1
 // commit2
+// commit3
 export default {
   name: 'Home',
   components: {
