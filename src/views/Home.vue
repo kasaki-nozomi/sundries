@@ -11,7 +11,8 @@ import HelloWorld from '@/components/HelloWorld.vue'
 import { computed } from 'vue'
 import { mapGetters, useStore } from 'vuex'
 // commit1
-// commit22
+// commit2
+// commit3
 export default {
   name: 'Home',
   components: {
