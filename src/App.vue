@@ -4,6 +4,18 @@
   </div>
 </template>
 
+<script>
+
+export default({
+  setup() {
+      // commit one
+      // commit two
+      // commit three
+  },
+})
+</script>
+
+
 <style lang="scss" scoped>
 .card {
   height: 100px;
