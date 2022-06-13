@@ -13,6 +13,7 @@ import { mapGetters, useStore } from 'vuex'
 // commit1
 // commit2
 // commit3
+// commit6
 export default {
   name: 'Home',
   components: {
