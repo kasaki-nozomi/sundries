@@ -4,15 +4,6 @@
   </div>
 </template>
 
-<script>
-export default {
-// commit five
-}
-</script>
-
-<style>
-
-</style>
 <style lang="scss" scoped>
 .card {
   height: 100px;
